@@ -43,3 +43,4 @@ wheels/
 /detectron2/model_zoo/configs
 /projects/*/datasets
 /models
+/datasets
